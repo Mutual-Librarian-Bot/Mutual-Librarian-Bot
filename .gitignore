@@ -1,0 +1,5 @@
+/dist
+/settings.json
+/settings-production.json
+node_modules/
+*.swp

@@ -1,6 +1,0 @@
-{
-    "ch_about": "> **||]about**\nThis command displays information about the bot, whether it's up to date is nebulous.\nExample: ||]about\n\n",
-    "ch_help": "> **||]help**\nDisplays this menu, bolded words are purely stylistic.\nExample: ||]help\n\n",
-
-	"mlib_bookmark": "> **||]bookmark**\nBookmarks your current page, given the relevant literture title.\nExample: ||]bookmark 36 \"Debt by David Graeber\" (optional chapter) \"Primordial Debts\"\n\n"
-}
