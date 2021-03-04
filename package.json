@@ -13,7 +13,11 @@
     "Freya",
     "Harmony",
     "attercope",
-    "Mira"
+    "Mira",
+    "Claire",
+    "Haley",
+    "Jess",
+    "Taylor"
   ],
   "scripts": {
     "build": "npx babel src -d dist",
